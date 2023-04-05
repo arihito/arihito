@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <div>
 
-![](https://img.shields.io/badge/Version-v2.9.4-990000.svg)![](https://img.shields.io/badge/Update-2023/05-333333.svg) ![](https://img.shields.io/badge/Since-2012/02-555555.svg) <a href="https://www.buymeacoffee.com/arihito"><img src="https://img.buymeacoffee.com/button-api/?text=Please support 1 Coin !!&emoji=✨&slug=arihito&button_colour=555555&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00" width="18%" style="margin-left:8px"></a>
+![](https://img.shields.io/badge/GitHubID-arihito-cc0066.svg) ![](https://img.shields.io/badge/Version-v2.9.4-cc6600.svg) ![](https://img.shields.io/badge/Update-2023/05-333333.svg) ![](https://img.shields.io/badge/Since-2012/02-555555.svg) <a href="https://www.buymeacoffee.com/arihito"><img src="https://img.buymeacoffee.com/button-api/?text=Please support 1 Coin !!&emoji=✨&slug=arihito&button_colour=555555&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00" width="18%" style="margin-left:8px"></a>
 
 <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,styledcomponents,js,jquery,ts,babel,gulp,webpack,nodejs,vite,deno,react,vue,svelte,next,nuxtjs,redux,remix,vercel,firebase,supabase,apollo,graphql,prisma,vscode,eclipse,vim,ruby,php,mysql,laravel,wordpress,docker,aws,linux,bash,md,git,github,githubactions,ps,ai,ae,xd,figma" width="80%"/>
 
