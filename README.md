@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![](https://raw.githubusercontent.com/arihito/arihito/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/arihito/arihito/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <div style="display:flex">
-<a style="display:block" href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/arihito/arihito/main/profile-summary-card-output/monokai/3-stats.svg"></a>
+<a style="display:block;margin-right:15px" href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/arihito/arihito/main/profile-summary-card-output/monokai/3-stats.svg"></a>
 
-<img width="50%" style="margin-left:15px" src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,styledcomponents,js,jquery,ts,babel,gulp,webpack,nodejs,vite,deno,react,vue,svelte,next,nuxtjs,redux,remix,vercel,firebase,supabase,apollo,graphql,prisma,vscode,eclipse,vim,ruby,php,mysql,laravel,wordpress,docker,aws,linux,bash,md,git,github,githubactions,ps,ai,ae,xd,figma" />
+<img width="50%" src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,styledcomponents,js,jquery,ts,babel,gulp,webpack,nodejs,vite,deno,react,vue,svelte,next,nuxtjs,redux,remix,vercel,firebase,supabase,apollo,graphql,prisma,vscode,eclipse,vim,ruby,php,mysql,laravel,wordpress,docker,aws,linux,bash,md,git,github,githubactions,ps,ai,ae,xd,figma" />
 </div>
