@@ -18,13 +18,14 @@ Here are some ideas to get you started:
 
 [![](https://raw.githubusercontent.com/arihito/arihito/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/arihito/arihito/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<div style="display:flex">
-<a style="display:block;margin-right:15px" href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/arihito/arihito/main/profile-summary-card-output/monokai/3-stats.svg"></a>
 
-<div style="display:flex;flex-direction:column;align-items:top">
+<a style="float:left;margin-right:15px" href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/arihito/arihito/main/profile-summary-card-output/monokai/3-stats.svg"></a>
 
-![](https://img.shields.io/badge/Update-2023/05-990000.svg) ![](https://img.shields.io/badge/Since-2012/05-555555.svg)<br><a href="https://www.buymeacoffee.com/arihito"><img src="https://img.buymeacoffee.com/button-api/?text=Please support 1 Coin !!&emoji=✨&slug=arihito&button_colour=555555&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00" width="210"></a>
+<div>
 
-<img width="210" src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,styledcomponents,js,jquery,ts,babel,gulp,webpack,nodejs,vite,deno,react,vue,svelte,next,nuxtjs,redux,remix,vercel,firebase,supabase,apollo,graphql,prisma,vscode,eclipse,vim,ruby,php,mysql,laravel,wordpress,docker,aws,linux,bash,md,git,github,githubactions,ps,ai,ae,xd,figma" />
-</div>
+![](https://img.shields.io/badge/Version-v2.9.4-990000.svg)![](https://img.shields.io/badge/Update-2023/05-333333.svg) ![](https://img.shields.io/badge/Since-2012/05-555555.svg)
+
+<img width="43%" src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,styledcomponents,js,jquery,ts,babel,gulp,webpack,nodejs,vite,deno,react,vue,svelte,next,nuxtjs,redux,remix,vercel,firebase,supabase,apollo,graphql,prisma,vscode,eclipse,vim,ruby,php,mysql,laravel,wordpress,docker,aws,linux,bash,md,git,github,githubactions,ps,ai,ae,xd,figma" />
+<hr>
+<a href="https://www.buymeacoffee.com/arihito"><img src="https://img.buymeacoffee.com/button-api/?text=Please support 1 Coin !!&emoji=✨&slug=arihito&button_colour=555555&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00" width="20%"></a>
 </div>
