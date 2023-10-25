@@ -1,4 +1,24 @@
-### Hi there 👋
+<svg class="My_Page" fill="none" viewBox="0 0 900 75" width="900" height="75" xmlns="http://www.w3.org/2000/svg" style="border-radius: 5px"><foreignObject width="100%" height="100%"><div xmlns="http://www.w3.org/1999/xhtml">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@-webkit-keyframes typing { 
+from { width: 0; } 
+}
+@-webkit-keyframes blink-caret { 
+50% { border-color: transparent; } 
+}
+h1 {
+font-family: 'Oswald';
+font-size: 3.6rem;
+-webkit-animation: typing 2s steps(30, end), blink-caret .5s step-end infinite alternate;
+color: white;
+text-shadow: #f136ab 0px 0 5px;
+}
+</style>
+<h1>💻 Welcome to Arihito's GitHub 📱</h1>
+</div>
+</foreignObject>
+</svg>
 
 <!--
 **arihito/arihito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +36,20 @@ Here are some ideas to get you started:
 -->
 [![](https://raw.githubusercontent.com/arihito/arihito/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+[![github-chart](https://github-chart.vercel.app/api?user=arihito)](https://github.com/arihito/github-chart)
+
+[![言語バッジ](https://img.shields.io/badge/-PHP-777BB4.svg?logo=php&style=flat-square&logoColor=white)](https://www.php.org/)
+[![フレームワークバッジ](https://img.shields.io/badge/-laravel-FF2D20.svg?logo=laravel&style=flat-square&logoColor=white)](https://laravel.org/)
+[![言語バッジ](https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=flat-square&logoColor=white)](https://www.ruby-lang.org/)
+[![フレームワークバッジ](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000.svg?logo=ruby-on-rails&style=flat-square&logoColor=white)](https://rubyonrails.org/)
+[![TypeScriptバッジ](https://img.shields.io/badge/-TypeScript-3178C6.svg?logo=typescript&style=flat-square&logoColor=white)](https://typescriptbook.jp/)
+[![フレームワークバッジ](https://img.shields.io/badge/-next.js-000000.svg?logo=next.js&style=flat-square&logoColor=white)](https://nextjs.org/learn/basics/create-nextjs-app)
+[![HTMLバッジ](https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=flat-square&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
+[![CSSバッジ](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat-square&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Dockerバッジ](https://img.shields.io/badge/-Docker-2496ED.svg?logo=docker&style=flat-square&logoColor=white)](https://www.docker.com/)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=arihito&theme=dark_dimmed)](https://github-profile-trophy.vercel.app/?username=arihito&theme=dark_dimmed)
+
 [![](https://raw.githubusercontent.com/arihito/arihito/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)　[![](https://raw.githubusercontent.com/arihito/arihito/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
@@ -23,7 +57,8 @@ Here are some ideas to get you started:
 
 <div>
 
-![](https://img.shields.io/badge/GitHubID-arihito-cc0066.svg)　![](https://img.shields.io/badge/Version-v2.9.4-cc6600.svg)　![](https://img.shields.io/badge/Update-2023/05-333333.svg)　![](https://img.shields.io/badge/Since-2012/02-555555.svg)　　<a href="https://www.buymeacoffee.com/arihito"><img src="https://img.buymeacoffee.com/button-api/?text=Please support 1 Coin !!&emoji=✨&slug=arihito&button_colour=555555&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00" width="23%" style="margin-left:8px"></a>
+![](https://img.shields.io/badge/GitHubID-arihito-cc0066.svg)　
+[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20arihito)](https://github.com/arihito)　![](https://img.shields.io/badge/Update-2023/05-333333.svg)　![](https://img.shields.io/badge/Since-2012/02-555555.svg)　　<a href="https://www.buymeacoffee.com/arihito"><img src="https://img.buymeacoffee.com/button-api/?text=Please support 1 Coin !!&emoji=✨&slug=arihito&button_colour=555555&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00" width="23%" style="margin-left:8px"></a>
 
 <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,styledcomponents,js,jquery,ts,babel,gulp,webpack,nodejs,vite,deno,react,vue,svelte,next,nuxtjs,redux,remix,vercel,firebase,supabase,apollo,graphql,prisma,vscode,eclipse,vim,ruby,php,mysql,laravel,wordpress,docker,aws,linux,bash,md,git,github,githubactions,ps,ai,ae,xd,figma" width="80%"/>
 
