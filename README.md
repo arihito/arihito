@@ -1,5 +1,7 @@
-<svg class="My_Page" fill="none" viewBox="0 0 900 75" width="900" height="75" xmlns="http://www.w3.org/2000/svg" style="border-radius: 5px"><foreignObject width="100%" height="100%"><div xmlns="http://www.w3.org/1999/xhtml">
-<style>
+<svg class="My_Page" fill="none" viewBox="0 0 900 75" width="900" height="75" xmlns="http://www.w3.org/2000/svg" style="border-radius: 5px">
+<foreignObject width="100%" height="100%">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<h1 style="
 @import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
 @-webkit-keyframes typing { 
 from { width: 0; } 
@@ -9,13 +11,11 @@ from { width: 0; }
 }
 h1 {
 font-family: 'Oswald';
-font-size: 3.6rem;
+font-size: 4.2rem;
 -webkit-animation: typing 2s steps(30, end), blink-caret .5s step-end infinite alternate;
 color: white;
 text-shadow: #f136ab 0px 0 5px;
-}
-</style>
-<h1>💻 Welcome to Arihito's GitHub 📱</h1>
+}">💻 Welcome to Arihito's GitHub 📱</h1>
 </div>
 </foreignObject>
 </svg>
