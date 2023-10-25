@@ -28,10 +28,11 @@ Here are some ideas to get you started:
 [![CSSバッジ](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat-square&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Dockerバッジ](https://img.shields.io/badge/-Docker-2496ED.svg?logo=docker&style=flat-square&logoColor=white)](https://www.docker.com/)
 
-<div style="width:70%">
+<div style="width:100%;transform:scale(.7);transform-origin:left top;">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=arihito&theme=dark_dimmed)](https://github-profile-trophy.vercel.app/?username=arihito&theme=dark_dimmed)
-<div>
+
+</div>
 
 [![](https://raw.githubusercontent.com/arihito/arihito/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)　[![](https://raw.githubusercontent.com/arihito/arihito/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
