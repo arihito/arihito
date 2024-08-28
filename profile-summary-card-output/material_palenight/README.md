@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/arihito/arihito/main/profile-summary-card-output/material_palenight/4-productive-time.svg)
-```
-
-    
